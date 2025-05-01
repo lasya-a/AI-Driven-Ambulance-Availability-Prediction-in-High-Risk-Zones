@@ -1,0 +1,2 @@
+Location,Rural/Urban,Nature of Accident,Vehicle Involved,Type of Accident,Causes,Road Feature,Road condition,Weather Condition,No of Affected Persons
+america,0,Lorry Hit Culvert,Generator load,Non injury,4,1,3,1,2
